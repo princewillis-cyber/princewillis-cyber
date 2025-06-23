@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Prince Willis
 
-<!--
-**princewillis-cyber/princewillis-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring Cybersecurity Professional | Google Cybersecurity Cert (In Progress)  
+📚 Currently learning: Linux, Networking, Threat Detection  
+💻 Labs: TryHackMe | Blue Team Labs | Packet Tracer  
+🛠️ Building a GitHub portfolio to document my cybersecurity journey
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Skills I'm Learning
+- Linux (Bash)
+- Nmap, Wireshark
+- Incident Response Concepts
+- CompTIA Security+ (SY0-601)
+
+## 📂 My Lab Projects
+Visit my lab repository here: [tryhackme-labs](https://github.com/princewillis-cyber/tryhackme-labs)
+
+---
+
+🚀 Connect with me on [LinkedIn]() 
+
